@@ -1,7 +1,7 @@
 # fridaysforfuture_archiv
 Das fridaysforfuture_archiv ist ein Archiv zur strukturierten Sammlung und Dokumentation der organisatorischen Struktur und der Arbeitsweise der Fridays for Future Bewegung in Deutschland.
 
-[![Archivtyp](https://img.shields.io/badge/Archiv-Organisation%20%26%20Struktur-blue?style=flat&logo=archivebox)](https://github.com/deinrepo/fridaysforfuture_archiv)
+[![Archivtyp](https://img.shields.io/badge/Archiv-Organisation%20%26%20Struktur-blue?style=flat&logo=archivebox)](https://github.com/bonsaibauer/fridaysforfuture_archiv)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Fokus](https://img.shields.io/badge/Fokus-Deutschland-blue?style=flat&logoColor=blue)
 ![Zielgruppe](https://img.shields.io/badge/Zielgruppe-Forschung%20%7C%20Bewegungsanalyse-success?style=flat&logo=academia&logoColor=white)
